@@ -1,7 +1,7 @@
 http://ttc.herculano.xyz<br>
-[Frontend]()
-[Backend]()
-[Devtools]()
+[Frontend](https//github.com/herculan0/ttc-front)
+[Backend](https://github.com/herculan0/ttc-api)
+[Devtools](https://github.com/herculan0/ttc-devtools)
 
 
 - [x] O desafio consiste em construir uma stack de infraestrutura que provisione um ambiente para rodar duas aplicações e 

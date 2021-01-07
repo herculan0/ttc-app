@@ -1,0 +1,9 @@
+[submodule "ttc-front"]
+	path = ttc-front
+	url = https://github.com/herculan0/ttc-front
+[submodule "ttc-api"]
+	path = ttc-api
+	url = https://github.com/herculan0/ttc-api
+[submodule "ttc-devtools"]
+	path = ttc-devtools
+	url = https://github.com/herculan0/ttc-devtools
